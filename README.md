@@ -5,6 +5,7 @@
 - 注册相似的id
 - 不想被搜索引擎爬取、不想被人从微信、钉钉中搜索到，又想使用自己的ID场景
 ```
+#输出格式：结果 替换字符数量
 ➜  python3 homoglyphs_encode.py LDrakura
 ĿDrakura 1
 ĽDrakura 1
